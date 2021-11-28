@@ -8,12 +8,11 @@ body{
     margin-top:30px;
     background-color: #02c2c7;
 }
-h4{
-    margin-left: 25px;
-}
 
 .padding-30px-all {
     padding: 30px;
+}.team-single-button{
+    text-align: center;
 }
 .button {
     margin-top: 20px;
@@ -40,9 +39,7 @@ h4{
 .text-center {
     text-align: center!important;
 }
-img {
-   margin-left: 85px;
-}
+
 
 
 .list-style9 {
